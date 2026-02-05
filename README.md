@@ -80,7 +80,7 @@ This project represents an important step in my journey toward becoming a **Data
 
 ## 📂 Project Files
 
-* **dataset_olympics.csv[Uploading dataset_olympics.csv…]()
+* **[Uploading dataset_olympics.csv…]()
 ** → Raw Olympics dataset
 * **[Uploading Olympics_Data_Queries_Project.sql…]()
 ** → All SQL queries used for analysis
