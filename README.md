@@ -24,7 +24,7 @@ The goal of this project is to demonstrate **real-world SQL data analysis skills
 
 Watch the complete explanation of SQL queries and insights:
 
-➡️ **[Click here to watch the video]([PASTE_YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/1QkAqK0HXB4K-a7hoJlJFFuhUtNDN47eY/view?usp=classroom_web&authuser=0))**
+➡️ **([PASTE_YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/1QkAqK0HXB4K-a7hoJlJFFuhUtNDN47eY/view?usp=classroom_web&authuser=0))**
 
 
 
